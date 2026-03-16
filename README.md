@@ -22,3 +22,4 @@ Day to day I'm mostly coordinating across engineering, product, and SRE to ship 
 - [LinkedIn](https://www.linkedin.com/in/ronbofan)
 
 Fort Lauderdale, FL.
+
